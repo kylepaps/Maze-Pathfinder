@@ -1,8 +1,3 @@
-'''
-Group: Maninder Lall (170919370), 
-       Ryan Bahia (180773860), 
-       Kyle Papizewski (180820600)
-'''
 
 class Maze:
     SIZE = (5, 9)
